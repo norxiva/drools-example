@@ -1,0 +1,4 @@
+rootProject.name = 'drools-example'
+rootProject.name = 'drools-example'
+include 'drools-course'
+
